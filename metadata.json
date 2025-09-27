@@ -1,0 +1,5 @@
+{
+  "name": "AI Grocery List",
+  "description": "An intelligent grocery list generator. Describe your meal plan, and the AI will create a categorized shopping list for you. You can then edit, add, or remove items as needed.",
+  "requestFramePermissions": []
+}
